@@ -1,3 +1,11 @@
+
+/*
+Author: Jason Castillo
+Course: CSCI-235
+Instructor: Tiziana Ligorio
+Assignment: title, Project 1 Book
+
+*/
 #include "Book.hpp"
   /**
       Default constructor.
