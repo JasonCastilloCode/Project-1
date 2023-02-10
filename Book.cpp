@@ -6,6 +6,14 @@ Course: CSCI-235
 Instructor: Tiziana Ligorio
 Assignment: title, Project 1 Book
 
+Description: This is a baseline project whose objective is to get you acquainted with the platforms we will use in this course 
+and to refresh your knowledge of basic OOP. You will implement the Book class. In order to successfully complete this project, 
+we strongly recommend that you look back to your CSCI 135 coursework as a reference.
+
+Moreover, this project will introduce you to GitHub Classroom so you can work with git version control. All projects in this 
+course will be distributed via GitHub Classroom and submitted to Gradescope via GitHub. We truly hope you will start establishing 
+best practices of version control, you will need it in the near future, so better start now!
+
 */
 #include "Book.hpp"
   /**
